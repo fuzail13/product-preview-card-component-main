@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution]([https://github.com/kevin-powell/product-preview-card-component-main](https://github.com/fuzail13/product-preview-card-component-main))
+- [Solution](https://github.com/fuzail13/product-preview-card-component-main/)
 - [Live version](https://fuzail13.github.io/product-preview-card-component-main/)
 
 ## My process
